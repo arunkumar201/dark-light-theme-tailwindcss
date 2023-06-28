@@ -1,0 +1,8 @@
+.slick-dots {
+   color:rgb(255, 255, 255);
+}
+
+.slick-dots li button:before {
+  color: rgb(1, 16, 16)
+
+}
